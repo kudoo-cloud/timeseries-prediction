@@ -1,0 +1,5 @@
+DB_USER = 'postgres'
+DB_PASSWORDD = ''
+DB_NAME = 'kudoo'
+CRON_FREQUENCY = "0 0 * * 0"
+PREDICTION_PERIODS = 365

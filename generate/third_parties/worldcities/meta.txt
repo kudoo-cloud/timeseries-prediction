@@ -1,0 +1,5 @@
+World Cities
+
+source: SimpleMaps.com
+url: https://simplemaps.com/static/data/world-cities/basic/simplemaps_worldcities_basicv1.4.zip
+downloaded on: 2019-05-10

@@ -1,0 +1,10 @@
+Fashion products on Amazon.com
+
+Dataset of 22,000 fashion products on Amazon. This is a pre-crawled dataset,
+taken as subset of a bigger dataset (more than 7 million fashion products) that
+was created by extracting data from Amazon.
+
+source: data.world
+url: https://data.world/promptcloud/fashion-products-on-amazon-com
+downloaded at: 2019-05-07
+
